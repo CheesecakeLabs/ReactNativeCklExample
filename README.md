@@ -1,6 +1,6 @@
 # React Native Cheesecake Example
 
-[> Click here to read the blogpost](https://cheesecakelabs.com/blog/)
+[> Click here to read the blogpost](https://cheesecakelabs.com/br/blog/efficient-way-structure-react-native-projects/?utm_source=github)
 
 > This is a simple React Native example project.
 
