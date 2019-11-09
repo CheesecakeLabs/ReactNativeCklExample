@@ -14,7 +14,7 @@
 
 ## How to run locally
 
-- Navigate to the project folder: `cd ./agriness-presence`;
+- Navigate to the project folder: `cd ./ReactNativeCklExample`;
 - Install project dependencies: `yarn`;
 - Install CocoaPods iOS packages: `cd ios && pod install`;
 - Run in iOS Simulator: `yarn ios`;
